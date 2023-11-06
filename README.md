@@ -6,17 +6,17 @@
     NIM     : 312210093
     Kelas   : TI22B1
 
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Text;
 
-namespace oop
-{
-class Pegawai
-{
-private string \_nama;
-private double \_gajiPokok;
+    namespace oop
+    {
+    class Pegawai
+    {
+    private string \_nama;
+    private double \_gajiPokok;
 
         public string Nama
         {
@@ -124,4 +124,4 @@ private double \_gajiPokok;
         }
     }
 
-}
+    }
